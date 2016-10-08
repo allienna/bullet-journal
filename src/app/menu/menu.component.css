@@ -1,0 +1,13 @@
+button#login {
+    background: transparent;
+    color: white;
+    border: none;
+}
+
+.tag.tag-success {
+    position: relative;
+    top: -10px;
+    left: -5px;
+}
+
+
